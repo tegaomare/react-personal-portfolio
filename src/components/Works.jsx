@@ -1,6 +1,7 @@
 import React from 'react';
 import code from '../assets/code2.png';
 
+
 const Works = () => {
   return (
     <div name='work' className='w-full md:h-screen text-black-500 bg-[#A6A2A2]'>
@@ -24,8 +25,8 @@ const Works = () => {
                 CBT Application
               </span>
               <p className='text-center'>A CBT web application built with React and Mongodb</p>
-              <div className='pt-8 text-center'>
-                <a href='/'>
+              <div className='pt-8 <img src"assets/images/moviementor.png">'>
+                <a href='https://project-211-88db9fc198e3.herokuapp.com/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
