@@ -20,6 +20,13 @@ const Skills = () => {
                   <p className='my-4'>JAVASCRIPT</p>
               </div>
               <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
+                  <p className='my-4'>JAVA</p>
+              </div>
+              <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
+                  <p className='my-4'>COMPUTER SCIENCE</p>
+              </div>
+
+              <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
                   <p className='my-4'>REACT</p>
               </div>
               <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
@@ -32,7 +39,7 @@ const Skills = () => {
                   <p className='my-4'>MONGO DB</p>
               </div>
               <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
-                  <p className='my-4'>AWS</p>
+                  <p className='my-4'>MERN STACK</p>
               </div>
               <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
                   <p className='my-4'>MYSQL</p>
@@ -45,6 +52,12 @@ const Skills = () => {
               </div>
               <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
                   <p className='my-4'>HANDELBARS JS</p>
+              </div>
+              <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
+                  <p className='my-4'>OOP</p>
+              </div>
+              <div className='shadow-md shadow-[#11270B] hover:scale-110 duration-500'>
+                  <p className='my-4'>SOFTWARE DEVELOPMENT</p>
               </div>
           </div>
       </div>
