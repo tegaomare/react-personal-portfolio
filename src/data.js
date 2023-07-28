@@ -1,4 +1,4 @@
-const applications = [
+export const applications = [
   {
     title: "MovieMentor",
     description:
