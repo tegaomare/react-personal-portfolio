@@ -13,7 +13,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#080708] text-gray-300'>
+    <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#11270B] text-gray-300'>
       <div>
         <h1 className=' font-thin text-2xl italic font-serif'>Oghenetega Omarejedje</h1>
       </div>
