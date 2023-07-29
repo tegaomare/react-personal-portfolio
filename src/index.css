@@ -24,3 +24,12 @@
     hsla(242, 74%, 61%, 0.8)
   ) !important;
 }
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.tongue-face-emoji {
+  width: 25px;
+}
