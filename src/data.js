@@ -50,7 +50,7 @@ const applications = [
     description:
       "This is a CMS-style blog site designed specifically for developers who want to publish articles, blog posts, and share their thoughts and opinions on various tech topics.",
 
-    codeLink: "https://tegaomare.github.io/Code-Qiuz/",
+    codeLink: "https://cbctech-blog-3328d1c29db1.herokuapp.com/",
   },
 ];
 export default applications;

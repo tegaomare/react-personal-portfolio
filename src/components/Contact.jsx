@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Contact = () => {
+  
   return (
     <div name='contact' className='w-full h-screen bg-[#A6A2A2] flex justify-center items-center p-4'>
         <div className='flex flex-col max-w-[600px] w-full'>
