@@ -23,7 +23,7 @@ const Skills = () => {
                   <p className='my-4'>JAVA</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
-                  <p className='my-4'>COMPUTER SCIENCE</p>
+                  <p className='my-4'>JUPYTER NOTEBOOK</p>
               </div>
 
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
@@ -54,10 +54,10 @@ const Skills = () => {
                   <p className='my-4'>HANDELBARS JS</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
-                  <p className='my-4'>OOP</p>
+                  <p className='my-4'>WIRESHARK</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
-                  <p className='my-4'>SOFTWARE DEVELOPMENT</p>
+                  <p className='my-4'>DJANGO</p>
               </div>
           </div>
       </div>
