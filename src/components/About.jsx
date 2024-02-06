@@ -20,14 +20,13 @@ const About = () => {
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
             <div className="sm:text-right text-4xl font-bold">
               <p>
-                Hi. I'm Tega, nice to meet you. Please take a
-                look around.
+              Welcome to my digital space!!!
               </p>
             </div>
             <div>
               <p>
                 {" "}
-                A Software Engineer with a strong background in computer science and certifications in front-end and back-end technologies. Proven track record of successfully delivering innovative projects from concept to completion. Proficient in HTML, CSS, JavaScript, Java, and frameworks, creating captivating and user-friendly interfaces. Expertise in database management and server-side programming, building scalable and secure web solutions. Committed to continuous learning and exceeding client expectations with cutting-edge solutions.
+                Hello! I'm Tega, a Junior at SUNY Potsdam and an aspiring Software Engineer. My journey in computer science has equipped me with a solid foundation in both front-end and back-end technologies. I excel in creating user-friendly interfaces with HTML, CSS, and JavaScript, and I'm proficient in Java for server-side solutions. I'm passionate about leveraging my skills to develop secure, scalable web applications and committed to continuous learning in the ever-evolving tech landscape. Let's connect and create innovative solutions together!
               </p>
             </div>
           </div>
