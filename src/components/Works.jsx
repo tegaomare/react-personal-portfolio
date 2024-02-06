@@ -15,7 +15,7 @@ const ApplicationItem = ({ code,title, description,  codeLink }) => (
       <div className='pt-8 text-center'>
         <a href={codeLink}>
           <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#178C38] text-black-500 font-bold text-lg'>
-            Code
+          Show Webpage
           </button>
         </a>
       </div>
@@ -31,7 +31,7 @@ const Works = () => {
           <p className='text-4xl font-bold inline border-b-4 text-black-500 border-[#178C38]'>
             Work
           </p>
-          <p className='py-6 text-2xl'>Check out some of my most recent work</p>
+          <p className='py-6 text-2xl'>Explore my latest projects and dive into the code by visiting my GitHub repository. Stay tuned for more innovative solutions on the way.</p>
         </div>
         {/* Container */}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
