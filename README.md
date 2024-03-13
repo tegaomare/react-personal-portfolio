@@ -17,7 +17,6 @@ Project is created with:
 - Javascript
 - Node.js
 - Express.js
-- MongoDB
 - Mongoose
 - Tailwind
 - Postcss
