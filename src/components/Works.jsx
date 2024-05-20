@@ -1,7 +1,7 @@
 import React from 'react';
 import applications from '../data';
 
-const ApplicationItem = ({ code,title, description,  codeLink }) => (
+const ApplicationItem = ({ code,title, description,  codeLink, GitHubLink }) => (
   <div
     style={{ backgroundImage: `url(${code})` }}
     className='shadow-lg shadow-[#178C38] group container rounded-md flex justify-center items-center mx-auto content-div '
@@ -16,6 +16,11 @@ const ApplicationItem = ({ code,title, description,  codeLink }) => (
         <a href={codeLink}>
           <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#178C38] text-black-500 font-bold text-lg'>
           Show Webpage
+          </button>
+        </a>
+        <a href={GitHubLink}>
+          <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#178C38] text-black-500 font-bold text-lg'>
+          GitHub
           </button>
         </a>
       </div>
