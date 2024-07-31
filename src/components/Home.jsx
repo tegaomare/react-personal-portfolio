@@ -15,8 +15,7 @@ const Home = () => {
          Software Engineer
         </h2>
         <p className="text-black-500 py-4 max-w-md">
-        I took a full stack web developer bootcamp from may 2023 - august 2023. I love to work on web application using technologies like
-          React, Tailwind, Node.js, Express.js and Mongodb
+        I completed a full stack web developer bootcamp from may 2023 - august 2023. I am proficient with web application using platforms such as React, Tailwind, Node.js, Express.js and Mongodb
         </p>
         <div>
           <Link
