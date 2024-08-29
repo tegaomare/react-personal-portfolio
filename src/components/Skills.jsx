@@ -2,7 +2,7 @@ import React from 'react';
 
 const Skills = () => {
   return (
-    <div name='skills' className='w-full h-screen bg-[#A6A2A2] text-black-500'>
+    <div name='skills' className='w-full h-screen bg-[#2C3E50] text-gray-200'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div className=' w-full flex justify-center items-center flex-col mb-7'>
@@ -36,9 +36,6 @@ const Skills = () => {
                   <p className='my-4'>NODE JS</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
-                  <p className='my-4'>MONGO DB</p>
-              </div>
-              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
                   <p className='my-4'>MERN STACK</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
@@ -48,17 +45,69 @@ const Skills = () => {
                   <p className='my-4'>EXPRESS JS</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
-                  <p className='my-4'>Mongodb</p>
+                  <p className='my-4'>MongoDB</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
-                  <p className='my-4'>HANDELBARS JS</p>
+                  <p className='my-4'>GIT</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
-                  <p className='my-4'>WIRESHARK</p>
+                  <p className='my-4'>WordPress</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Gradle</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Digital/Software Product Management</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>C++</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>UX/UI Design</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>DevOps</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Terraform</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Docker Compose</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Python</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>AWS</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>CI/CD</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>RESTful APIs</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Linux/Unix</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Scrum</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Testing Frameworks</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Azure</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Full Stack Development</p>
+              </div>
+              <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
+                  <p className='my-4'>Docker</p>
               </div>
               <div className='shadow-md shadow-[#178C38] hover:scale-110 duration-500'>
                   <p className='my-4'>DJANGO</p>
               </div>
+              
           </div>
       </div>
     </div>

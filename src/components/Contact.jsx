@@ -23,10 +23,10 @@ const Contact = () => {
     };
 
     return (
-        <div name='contact' className='w-full h-screen bg-[#A6A2A2] flex justify-center items-center p-4'>
+        <div name='contact' className='w-full h-screen bg-[#2C3E50] flex justify-center items-center p-4'>
             <form className='flex flex-col max-w-[600px] w-full' onSubmit={sendEmail}>
                 <div className='pb-8 flex flex-col justify-center w-full h-full items-center'>
-                    <p className='text-4xl font-bold inline border-b-4 border-[#178C38] text-black-500'>Please Contact Me</p>
+                    <p className='text-4xl font-bold inline border-b-4 border-[#178C38] text-gray-200'>Please Contact Me</p>
                 </div>
                 <input type="text" name="from_name" placeholder="Your Name" required className="my-4 p-2" />
                 <input type="email" name="from_email" placeholder="Your Email" required className="my-4 p-2" />
