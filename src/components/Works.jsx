@@ -17,6 +17,9 @@ const ApplicationItem = ({ code,title, description,  codeLink }) => (
           <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#178C38] text-black-500 font-bold text-lg'>
           Show Webpage
           </button>
+          <button className='text-center rounded-lg px-4 py-3 m-2 bg-[#178C38] text-black-500 font-bold text-lg'>
+          Github
+          </button>
         </a>
       </div>
     </div>
