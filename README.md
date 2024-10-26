@@ -6,9 +6,9 @@
 
 A personal portfolio website built using React, showcasing my skills, projects, and experiences. This portfolio is designed to highlight my expertise in web development and provide visitors with an overview of my professional background.
 
-## Netlify Link
+## webpage
 
-https://main--euphonious-cat-fbb26c.netlify.app/
+otegaomarejedje.com
 
 ## Technology:
 

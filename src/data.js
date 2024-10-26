@@ -13,6 +13,7 @@ const applications = [
       "MovieMentor is a powerful movie app designed to enhance your movie-watching experience. ",
 
     codeLink: "https://project-211-88db9fc198e3.herokuapp.com/",
+    GitHubLink: "https://github.com/tegaomare/moviementor",
   },
   {
     code: code2,
@@ -21,6 +22,7 @@ const applications = [
       "Food For Thought is a user-friendly webpage designed to help you find the perfect recipe based on your available ingredient.",
 
     codeLink: "https://danielg808.github.io/food-for-thought/",
+    GitHubLink: "https://github.com/DanielG808/food-for-thought",
   },
   {
     code: code3,
@@ -29,6 +31,7 @@ const applications = [
       "This is a web apllication game, againt a user and the computer called",
 
     codeLink: "https://tegaomare.github.io/Rock_Paper_Scissors/",
+    GitHubLink: "https://github.com/tegaomare/Rock_Paper_Scissors",
   },
   {
     code: code4,
@@ -36,6 +39,7 @@ const applications = [
     description: "A timed coding quiz with multiple-choice questions.",
 
     codeLink: "https://tegaomare.github.io/Code-Qiuz/",
+    GitHubLink: "https://github.com/tegaomare/Code-Qiuz",
   },
   {
     code: code5,
@@ -43,6 +47,7 @@ const applications = [
     description: "a webpage that hold a collection of CSS snippets.",
 
     codeLink: "https://tegaomare.github.io/CSS-Snippet-Cheat--Sheet/",
+    GitHubLink: "https://github.com/tegaomare/CSS-Snippet-Cheat--Sheet",
   },
   {
     code: code6,
@@ -51,6 +56,7 @@ const applications = [
       "This is a CMS-style blog site designed specifically for developers who want to publish articles, blog posts, and share their thoughts and opinions on various tech topics.",
 
     codeLink: "https://cbctech-blog-3328d1c29db1.herokuapp.com/",
+    GitHubLink: "https://github.com/tegaomare/tech-blog",
   },
 ];
 export default applications;

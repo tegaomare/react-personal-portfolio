@@ -7,16 +7,15 @@ const Home = () => {
   return (
     <div
     name="home"
-    className="h-screen w-full bg-[#A6A2A2]"
+    className="h-screen w-full bg-[#2C3E50]"
   >
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
       <div className="flex flex-col justify-center h-full">
-        <h2 className="text-4xl sm:text-7xl font-bold text-[#11270B]">
+        <h2 className="text-4xl sm:text-7xl font-bold text-gray-200">
          Software Engineer
         </h2>
-        <p className="text-black-500 py-4 max-w-md">
-        I took a full stack web developer bootcamp from may 2023 - august 2023. I love to work on web application using technologies like
-          React, Tailwind, Node.js, Express.js and Mongodb
+        <p className="text-gray-200 py-4 max-w-md">
+        I completed a full stack web developer bootcamp from may 2023 - august 2023. I am proficient with web application using platforms such as React, Tailwind, Node.js, Express.js and Mongodb
         </p>
         <div>
           <Link
