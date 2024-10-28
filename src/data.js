@@ -34,8 +34,8 @@ const applications = [
     imageUrl: imageUrl4,
     title: "Code-Quiz",
     description: "A timed coding quiz with multiple-choice questions.",
-    codeLink: "https://tegaomare.github.io/Code-Quiz/",
-    GitHubLink: "https://github.com/tegaomare/Code-Quiz",
+    codeLink: "https://tegaomare.github.io/Code-Qiuz/",
+    GitHubLink: "https://github.com/tegaomare/Code-Qiuz",
   },
   {
     imageUrl: imageUrl5,
