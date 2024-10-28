@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaNodeJs, FaGitAlt, FaDocker, FaAws, FaJava } from 'react-icons/fa';
-import { SiMongodb, SiMysql, SiExpress, SiDjango, SiTailwindcss, SiPostgresql, SiFirebase, SiGraphql, SiJenkins, SiTerraform, SiVisualstudiocode, SiPostman, SiVercel, SiGithub, SiLinux } from 'react-icons/si';
+import { SiMongodb, SiMysql, SiExpress, SiDjango, SiTailwindcss, SiPostgresql, SiGraphql, SiJenkins, SiTerraform, SiVisualstudiocode, SiPostman, SiVercel, SiGithub, SiLinux } from 'react-icons/si';
 
 const Skills = () => {
     const skills = [
@@ -32,7 +32,6 @@ const Skills = () => {
                 { name: 'MongoDB', icon: <SiMongodb size={30} /> },
                 { name: 'MySQL', icon: <SiMysql size={30} /> },
                 { name: 'PostgreSQL', icon: <SiPostgresql size={30} /> },
-                { name: 'Firebase', icon: <SiFirebase size={30} /> },
             ],
         },
         {
