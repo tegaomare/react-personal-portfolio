@@ -21,9 +21,10 @@ const About = () => {
               <p>Welcome to my digital space!</p>
             </div>
             <div data-aos="fade-left">
-              <p className="text-lg leading-relaxed">
-                Hello! I'm <span className="text-[#178C38] font-semibold">Tega</span>, a Senior at SUNY Potsdam and an aspiring <span className="text-[#178C38] font-semibold">Software Engineer</span>. My journey in computer science has equipped me with a solid foundation in both front-end and back-end technologies. I excel in creating user-friendly interfaces with <span className="font-semibold">HTML</span>, <span className="font-semibold">CSS</span>, and <span className="font-semibold">JavaScript</span>, and I'm proficient in <span className="font-semibold">Java</span> for server-side solutions. I'm passionate about leveraging my skills to develop secure, scalable web applications and committed to continuous learning in the ever-evolving tech landscape. Let's connect and create innovative solutions together!
-              </p>
+            <p className="text-lg leading-relaxed">
+                Hello! I'm <span className="text-[#178C38] font-semibold">Tega</span>, a graduating Senior at SUNY Potsdam, set to complete my Computer Science degree in May 2025, and an aspiring <span className="text-[#178C38] font-semibold">Software Engineer</span>. My journey in computer science has equipped me with a solid foundation in both front-end and back-end technologies. I excel in creating user-friendly interfaces with <span className="font-semibold">HTML</span>, <span className="font-semibold">CSS</span>, and <span className="font-semibold">JavaScript</span>, and I'm proficient in <span className="font-semibold">Java</span> for server-side solutions. I'm passionate about leveraging my skills to develop secure, scalable web applications and committed to continuous learning in the ever-evolving tech landscape. Let's connect and create innovative solutions together!
+            </p>
+
             </div>
           </div>
         </div>
