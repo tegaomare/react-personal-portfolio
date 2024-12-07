@@ -15,9 +15,9 @@ const Home = () => {
             <span className="text-[#178C38]">Software Engineer</span>
           </h2>
           <p className="text-gray-200 py-4 max-w-md">
-            I completed a full-stack web developer bootcamp from May 2023 to August 2023.
-            I am proficient in web application development using platforms such as <span className="font-semibold text-[#178C38]">React</span>, <span className="font-semibold text-[#178C38]">Tailwind</span>, <span className="font-semibold text-[#178C38]">Node.js</span>, <span className="font-semibold text-[#178C38]">Express.js</span>, and <span className="font-semibold text-[#178C38]">MongoDB</span>.
+              I successfully completed a full-stack web development bootcamp from May 2023 to August 2023, where I gained hands-on experience building dynamic and responsive web applications. I am proficient in developing with modern frameworks and technologies, including <span className="font-semibold text-[#178C38]">React</span>, <span className="font-semibold text-[#178C38]">Tailwind CSS</span>, <span className="font-semibold text-[#178C38]">Node.js</span>, <span className="font-semibold text-[#178C38]">Express.js</span>, and <span className="font-semibold text-[#178C38]">MongoDB</span>.
           </p>
+
           <div>
             <Link
               to="about"
